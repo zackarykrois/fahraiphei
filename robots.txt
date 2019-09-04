@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaekooghi.stulikov.me/sitemap.xml
